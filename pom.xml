@@ -11,7 +11,7 @@
 
     <groupId>com.ixxus</groupId>
     <artifactId>test-from-artifact</artifactId>
-    <version>4.2.0.1.0</version>
+    <version>4.2.0.1.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
     <url>https://wiki.ixxus.co.uk</url>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:sihutch/test-from-artifact.git</connection>
         <developerConnection>scm:git:git@github.com:sihutch/test-from-artifact.git</developerConnection>
         <url>https://github.com/sihutch/test-from-artifact.git</url>
-      <tag>test-from-artifact-4.2.0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
